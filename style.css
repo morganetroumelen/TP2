@@ -10,7 +10,7 @@
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 50; }
 
 #navigation
 {
@@ -41,7 +41,7 @@
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: red; }
 
 #edito
 {
@@ -58,6 +58,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	color: purple;
 }
 
 #edito h2
