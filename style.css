@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: pink;
 }
 
 #header
 {
-	background: #ccc;
+	background: #d2691E;
 	padding: 20px;
 }
 
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #eee;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
